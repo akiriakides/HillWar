@@ -1,5 +1,5 @@
 # HillWar
-
+![Coverart](https://user-images.githubusercontent.com/49879473/56514952-aab87280-6504-11e9-8cd0-e0b04660a9f0.png)
 ## How To Play
 Once the beginning screen appears press space to start. You have two lives. Press space to
 shoot Mr Hankey and the arrow keys to move back and forth up and down. Once you have been hit twice by
