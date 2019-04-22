@@ -1,5 +1,7 @@
 # HillWar
 ![Coverart](https://user-images.githubusercontent.com/49879473/56514952-aab87280-6504-11e9-8cd0-e0b04660a9f0.png)
+
+
 ## How To Play
 Once the beginning screen appears press space to start. You have two lives. Press space to
 shoot Mr Hankey and the arrow keys to move back and forth up and down. Once you have been hit twice by
@@ -12,6 +14,8 @@ hero Scoot. He will defend their homeland with Hill’s only weakness: Mr hanky.
 chemical makeup is the only thing that will eliminate her army and Scoot is the only one who
 can wield the power. The fate of the Manatee Land is in his hands!
 
+## Screenshots
+![Capture Cover](https://user-images.githubusercontent.com/49879473/56515327-a6408980-6505-11e9-8e93-2b71b69e9b06.PNG)
 
 
 
