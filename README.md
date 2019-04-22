@@ -16,7 +16,9 @@ can wield the power. The fate of the Manatee Land is in his hands!
 
 ## Screenshots
 ![Capture Cover](https://user-images.githubusercontent.com/49879473/56515327-a6408980-6505-11e9-8e93-2b71b69e9b06.PNG)
-
+![Capture ingame](https://user-images.githubusercontent.com/49879473/56515405-d7b95500-6505-11e9-848b-48106c2254ea.PNG)
+![Capture](https://user-images.githubusercontent.com/49879473/56515410-d9831880-6505-11e9-9be5-47289dceff3c.PNG)
+![win](https://user-images.githubusercontent.com/49879473/56515414-dab44580-6505-11e9-9e27-08cada7efeba.PNG)
 
 
 ## Credits
